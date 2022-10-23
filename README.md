@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/92656447/197423509-e882052d-9220-495a-
 Bifurcar el repositorio. luego clone el repositorio localmente haciendo:
 
 ```bash
-git clone https://github.com/fernandopanduro/Tarjeta-Desplegable.git
+git clone https://github.com/fernandopanduro/Reloj-Neon.git
 ```
 
 ### Paso 2: Iniciar
